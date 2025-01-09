@@ -1,0 +1,10 @@
+Market-Predictions/
+├── data/
+│   └── marketing_campaign.csv  # Placeholder for the dataset file
+├── src/
+│   └── Market_predictions.py   # Main Python script
+├── notebooks/
+│   └── Market_predictions.ipynb  # Optional Jupyter Notebook (converted if necessary)
+├── README.md                   # Project Overview
+├── requirements.txt            # Python dependencies
+└── LICENSE                     # License for the repository
